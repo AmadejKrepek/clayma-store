@@ -2,17 +2,11 @@
 
 An ecommerce UI with React, no back-end integration
 
-## Concepts used in this Application
+## Prerequisites
 
-- react-hooks
-- react-context-api
-- react-local-storage
+Download there: https://nodejs.org/download/release/v14.21.3/ 
 
-## [Demo](https://claymastore.netlify.app)
-
-## Node Version
-
-Use node version: `14.21.3`
+Node.js `14.21.3` 
 
 ## Installation Guide
 
@@ -28,3 +22,9 @@ Start project (in project directory):
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
   The page will reload if you make edits.<br />
   You will also see any lint errors in the console.
+
+## Concepts used in this Application
+
+- react-hooks
+- react-context-api
+- react-local-storage
