@@ -4,6 +4,10 @@ An ecommerce UI with React, no back-end integration
 
 ## Prerequisites
 
+### Recommended option
+You can use **Node Version Manager** to install this version and easily switch between versions.
+
+### Alternative
 Download there: https://nodejs.org/download/release/v14.21.3/ 
 
 Node.js `14.21.3` 
